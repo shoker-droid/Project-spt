@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TagList TargetDevice="СПТ962" Id="101010" SerialNumber="???">
+  <Channel No="1" Name="Параметры 0" Kind="Channel" Prefix="П" Description="???">
+    <Tag Ordinal="001" Name="???" Id="001Параметры 0" Index="0" />
+    <Tag Ordinal="003" Name="???" Id="003Параметры 0" Index="0" />
+    <Tag Ordinal="004" Name="???" Id="004Параметры 0" Index="0" />
+    <Tag Ordinal="008" Name="???" Id="008Параметры 0" Index="0" />
+    <TagGroup Ordinal="009" Name="???">
+      <Tag Index="0" Name="???" Id="009н00Параметры 0" Value="" Eu="" />
+      <Tag Index="1" Name="???" Id="009н01Параметры 0" Value="" Eu="" />
+      <Tag Index="2" Name="???" Id="009н02Параметры 0" Value="" Eu="" />
+      <Tag Index="3" Name="???" Id="009н03Параметры 0" Value="" Eu="" />
+      <Tag Index="4" Name="???" Id="009н04Параметры 0" Value="" Eu="" />
+      <Tag Index="5" Name="???" Id="009н05Параметры 0" Value="" Eu="" />
+      <Tag Index="6" Name="???" Id="009н06Параметры 0" Value="" Eu="" />
+      <Tag Index="7" Name="???" Id="009н07Параметры 0" Value="" Eu="" />
+      <Tag Index="8" Name="???" Id="009н08Параметры 0" Value="" Eu="" />
+      <Tag Index="9" Name="???" Id="009н09Параметры 0" Value="" Eu="" />
+      <Tag Index="10" Name="???" Id="009н10Параметры 0" Value="" Eu="" />
+      <Tag Index="11" Name="???" Id="009н11Параметры 0" Value="" Eu="" />
+      <Tag Index="12" Name="???" Id="009н12Параметры 0" Value="" Eu="" />
+      <Tag Index="13" Name="???" Id="009н13Параметры 0" Value="" Eu="" />
+      <Tag Index="14" Name="???" Id="009н14Параметры 0" Value="" Eu="" />
+      <Tag Index="15" Name="???" Id="009н15Параметры 0" Value="" Eu="" />
+      <Tag Index="16" Name="???" Id="009н16Параметры 0" Value="" Eu="" />
+      <Tag Index="17" Name="???" Id="009н17Параметры 0" Value="" Eu="" />
+      <Tag Index="18" Name="???" Id="009н18Параметры 0" Value="" Eu="" />
+      <Tag Index="19" Name="???" Id="009н19Параметры 0" Value="" Eu="" />
+      <Tag Index="20" Name="???" Id="009н20Параметры 0" Value="" Eu="" />
+      <Tag Index="21" Name="???" Id="009н21Параметры 0" Value="" Eu="" />
+    </TagGroup>
+    <Tag Ordinal="011" Name="???" Id="011Параметры 0" Index="0" />
+    <Tag Ordinal="012" Name="???" Id="012Параметры 0" Index="0" />
+    <TagGroup Ordinal="013" Name="???">
+      <Tag Index="0" Name="???" Id="013н00Параметры 0" Value="" Eu="" />
+      <Tag Index="1" Name="???" Id="013н01Параметры 0" Value="" Eu="" />
+      <Tag Index="2" Name="???" Id="013н02Параметры 0" Value="" Eu="" />
+      <Tag Index="3" Name="???" Id="013н03Параметры 0" Value="" Eu="" />
+      <Tag Index="4" Name="???" Id="013н04Параметры 0" Value="" Eu="" />
+      <Tag Index="5" Name="???" Id="013н05Параметры 0" Value="" Eu="" />
+      <Tag Index="6" Name="???" Id="013н06Параметры 0" Value="" Eu="" />
+      <Tag Index="7" Name="???" Id="013н07Параметры 0" Value="" Eu="" />
+      <Tag Index="8" Name="???" Id="013н08Параметры 0" Value="" Eu="" />
+      <Tag Index="9" Name="???" Id="013н09Параметры 0" Value="" Eu="" />
+      <Tag Index="10" Name="???" Id="013н10Параметры 0" Value="" Eu="" />
+      <Tag Index="11" Name="???" Id="013н11Параметры 0" Value="" Eu="" />
+      <Tag Index="12" Name="???" Id="013н12Параметры 0" Value="" Eu="" />
+      <Tag Index="13" Name="???" Id="013н13Параметры 0" Value="" Eu="" />
+      <Tag Index="14" Name="???" Id="013н14Параметры 0" Value="" Eu="" />
+      <Tag Index="15" Name="???" Id="013н15Параметры 0" Value="" Eu="" />
+      <Tag Index="16" Name="???" Id="013н16Параметры 0" Value="" Eu="" />
+      <Tag Index="17" Name="???" Id="013н17Параметры 0" Value="" Eu="" />
+      <Tag Index="18" Name="???" Id="013н18Параметры 0" Value="" Eu="" />
+      <Tag Index="19" Name="???" Id="013н19Параметры 0" Value="" Eu="" />
+      <Tag Index="20" Name="???" Id="013н20Параметры 0" Value="" Eu="" />
+    </TagGroup>
+  </Channel>
+</TagList>

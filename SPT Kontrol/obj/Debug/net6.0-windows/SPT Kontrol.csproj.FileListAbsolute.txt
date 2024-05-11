@@ -1,0 +1,83 @@
+C:\другие\Никита\прочее\SPT Kontrol\SPT Kontrol\bin\Debug\net6.0-windows\SPT Kontrol.exe
+C:\другие\Никита\прочее\SPT Kontrol\SPT Kontrol\bin\Debug\net6.0-windows\SPT Kontrol.deps.json
+C:\другие\Никита\прочее\SPT Kontrol\SPT Kontrol\bin\Debug\net6.0-windows\SPT Kontrol.runtimeconfig.json
+C:\другие\Никита\прочее\SPT Kontrol\SPT Kontrol\bin\Debug\net6.0-windows\SPT Kontrol.dll
+C:\другие\Никита\прочее\SPT Kontrol\SPT Kontrol\bin\Debug\net6.0-windows\SPT Kontrol.pdb
+C:\другие\Никита\прочее\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.csproj.AssemblyReference.cache
+C:\другие\Никита\прочее\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT_Kontrol.Form1.resources
+C:\другие\Никита\прочее\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.csproj.GenerateResource.cache
+C:\другие\Никита\прочее\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\другие\Никита\прочее\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.AssemblyInfoInputs.cache
+C:\другие\Никита\прочее\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.AssemblyInfo.cs
+C:\другие\Никита\прочее\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.csproj.CoreCompileInputs.cache
+C:\другие\Никита\прочее\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.dll
+C:\другие\Никита\прочее\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\refint\SPT Kontrol.dll
+C:\другие\Никита\прочее\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.pdb
+C:\другие\Никита\прочее\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.genruntimeconfig.cache
+C:\другие\Никита\прочее\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\ref\SPT Kontrol.dll
+C:\другие\Никита\прочее\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT_Kontrol.Form2.resources
+C:\другие\Никита\прочее\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT_Kontrol.FormModal.resources
+C:\другие\Никита\прочее\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT_Kontrol.Properties.Resources.resources
+D:\SPT Kontrol (1)\SPT Kontrol\SPT Kontrol\bin\Debug\net6.0-windows\SPT Kontrol.exe
+D:\SPT Kontrol (1)\SPT Kontrol\SPT Kontrol\bin\Debug\net6.0-windows\SPT Kontrol.deps.json
+D:\SPT Kontrol (1)\SPT Kontrol\SPT Kontrol\bin\Debug\net6.0-windows\SPT Kontrol.runtimeconfig.json
+D:\SPT Kontrol (1)\SPT Kontrol\SPT Kontrol\bin\Debug\net6.0-windows\SPT Kontrol.dll
+D:\SPT Kontrol (1)\SPT Kontrol\SPT Kontrol\bin\Debug\net6.0-windows\SPT Kontrol.pdb
+D:\SPT Kontrol (1)\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT_Kontrol.Form1.resources
+D:\SPT Kontrol (1)\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT_Kontrol.Form2.resources
+D:\SPT Kontrol (1)\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT_Kontrol.FormModal.resources
+D:\SPT Kontrol (1)\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT_Kontrol.Properties.Resources.resources
+D:\SPT Kontrol (1)\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.csproj.GenerateResource.cache
+D:\SPT Kontrol (1)\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.GeneratedMSBuildEditorConfig.editorconfig
+D:\SPT Kontrol (1)\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.AssemblyInfoInputs.cache
+D:\SPT Kontrol (1)\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.AssemblyInfo.cs
+D:\SPT Kontrol (1)\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.csproj.CoreCompileInputs.cache
+D:\SPT Kontrol (1)\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.dll
+D:\SPT Kontrol (1)\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\refint\SPT Kontrol.dll
+D:\SPT Kontrol (1)\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.pdb
+D:\SPT Kontrol (1)\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.genruntimeconfig.cache
+D:\SPT Kontrol (1)\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\ref\SPT Kontrol.dll
+C:\Users\Аня\Desktop\SPT Kontrol\SPT Kontrol\bin\Debug\net6.0-windows\SPT Kontrol.exe
+C:\Users\Аня\Desktop\SPT Kontrol\SPT Kontrol\bin\Debug\net6.0-windows\SPT Kontrol.deps.json
+C:\Users\Аня\Desktop\SPT Kontrol\SPT Kontrol\bin\Debug\net6.0-windows\SPT Kontrol.runtimeconfig.json
+C:\Users\Аня\Desktop\SPT Kontrol\SPT Kontrol\bin\Debug\net6.0-windows\SPT Kontrol.dll
+C:\Users\Аня\Desktop\SPT Kontrol\SPT Kontrol\bin\Debug\net6.0-windows\SPT Kontrol.pdb
+C:\Users\Аня\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.csproj.AssemblyReference.cache
+C:\Users\Аня\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT_Kontrol.Form1.resources
+C:\Users\Аня\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT_Kontrol.Form2.resources
+C:\Users\Аня\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT_Kontrol.FormModal.resources
+C:\Users\Аня\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT_Kontrol.Properties.Resources.resources
+C:\Users\Аня\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.csproj.GenerateResource.cache
+C:\Users\Аня\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Аня\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.AssemblyInfoInputs.cache
+C:\Users\Аня\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.AssemblyInfo.cs
+C:\Users\Аня\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.csproj.CoreCompileInputs.cache
+C:\Users\Аня\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.dll
+C:\Users\Аня\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\refint\SPT Kontrol.dll
+C:\Users\Аня\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.pdb
+C:\Users\Аня\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.genruntimeconfig.cache
+C:\Users\Аня\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\ref\SPT Kontrol.dll
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\bin\Debug\net6.0-windows\SPT Kontrol.exe
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\bin\Debug\net6.0-windows\SPT Kontrol.deps.json
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\bin\Debug\net6.0-windows\SPT Kontrol.runtimeconfig.json
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\bin\Debug\net6.0-windows\SPT Kontrol.dll
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\bin\Debug\net6.0-windows\SPT Kontrol.pdb
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.csproj.AssemblyReference.cache
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT_Kontrol.Form1.resources
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT_Kontrol.Form2.resources
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT_Kontrol.Form3.resources
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT_Kontrol.Form4.resources
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT_Kontrol.FormModal.resources
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT_Kontrol.FormModal963.resources
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT_Kontrol.Properties.Resources.resources
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT_Kontrol.Resources.FormSchema.resources
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.csproj.GenerateResource.cache
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.AssemblyInfoInputs.cache
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.AssemblyInfo.cs
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.csproj.CoreCompileInputs.cache
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.dll
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\refint\SPT Kontrol.dll
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.pdb
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\SPT Kontrol.genruntimeconfig.cache
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Debug\net6.0-windows\ref\SPT Kontrol.dll

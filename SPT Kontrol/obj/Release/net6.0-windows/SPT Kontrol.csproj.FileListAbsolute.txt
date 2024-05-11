@@ -1,0 +1,24 @@
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\bin\Release\net6.0-windows\SPT Kontrol.exe
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\bin\Release\net6.0-windows\SPT Kontrol.deps.json
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\bin\Release\net6.0-windows\SPT Kontrol.runtimeconfig.json
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\bin\Release\net6.0-windows\SPT Kontrol.dll
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\bin\Release\net6.0-windows\SPT Kontrol.pdb
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Release\net6.0-windows\SPT Kontrol.csproj.AssemblyReference.cache
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Release\net6.0-windows\SPT_Kontrol.Form1.resources
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Release\net6.0-windows\SPT_Kontrol.Form2.resources
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Release\net6.0-windows\SPT_Kontrol.Form3.resources
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Release\net6.0-windows\SPT_Kontrol.Form4.resources
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Release\net6.0-windows\SPT_Kontrol.FormModal.resources
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Release\net6.0-windows\SPT_Kontrol.Properties.Resources.resources
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Release\net6.0-windows\SPT Kontrol.csproj.GenerateResource.cache
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Release\net6.0-windows\SPT Kontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Release\net6.0-windows\SPT Kontrol.AssemblyInfoInputs.cache
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Release\net6.0-windows\SPT Kontrol.AssemblyInfo.cs
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Release\net6.0-windows\SPT Kontrol.csproj.CoreCompileInputs.cache
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Release\net6.0-windows\SPT Kontrol.dll
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Release\net6.0-windows\refint\SPT Kontrol.dll
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Release\net6.0-windows\SPT Kontrol.pdb
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Release\net6.0-windows\SPT Kontrol.genruntimeconfig.cache
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Release\net6.0-windows\ref\SPT Kontrol.dll
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Release\net6.0-windows\SPT_Kontrol.FormModal963.resources
+C:\Users\nickk\OneDrive\Desktop\SPT Kontrol\SPT Kontrol\obj\Release\net6.0-windows\SPT_Kontrol.Resources.FormSchema.resources

@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!--
+    Microsoft ResX Schema 
+
+    Version 2.0
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
+    associated with the data types.
+
+    Example:
+
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing"">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+
+    There are any number of "resheader" rows that contain simple
+    name/value pairs.
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
+    mimetype set.
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
+    extensible. For a given mimetype the value must be set accordingly:
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
+    read any of the formats listed below.
+
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>ЛИЦЕНЗИОННОЕ СОГЛАШЕНИЕ
+
+ВНИМАНИЕ: установка или иное использование программы КОНФИГУРАТОР (далее &lt;программа&gt;) означает полное и безоговорочное принятие Вами условий данного лицензионного соглашения. Если Вы не согласны с условиями настоящего соглашения, то Вы не имеете права использовать данную программу.Настоящая лицензия относится также к любым обновлениям, изменениям и дополнениям к программе. Никто, кроме правообладателя, не вправе изменять условия и положения данного лицензионного соглашения.
+
+Исключительным правообладателем всех имущественных прав на программу является АО НПФ ЛОГИКА (г.Санкт - Петербург). Все исключительные права АО НПФ ЛОГИКА на программу защищаются законодательством Российской Федерации и международными соглашениями об авторском праве, а также другими законами и международными договорами, относящимися к интеллектуальной собственности.
+
+АО НПФ ЛОГИКА предоставляет пользователю (физическому или юридическому лицу) неисключительное право пользования программой на условиях настоящей лицензии (лицензионного соглашения). Пользователь имеет право на любое использование программы, в том числе копирование на любом количестве компьютеров, распространение любого количества точных копий программы без специального разрешения правообладателя, если это использование не противоречит условиям лицензионного соглашения.
+
+Для использования программы регистрация не требуется. Настоящее лицензионное соглашение вступает в силу с момента установки программы на компьютер. Пользование программой бесплатное.Дистрибутив программы распространяется бесплатно и не может быть объектом купли - продажи или других возмездных сделок. Программа лицензируется как единое целое, ее нельзя разделять на составляющие части. Программа распространяется свободно при условии, что настоящий дистрибутив не изменен и сохранены все  уведомления об авторских правах правообладателя на всех копиях.
+
+Запрещается: вносить какие-либо изменения или дополнения в объектный код программы, декомпилировать, модифицировать, дизассемблировать, эмулировать, реструктурировать, выполнять обратное конструирование, разделять программу на составляющие части, а также разрабатывать производные программы, сходные с лицензируемой, на основе данной программы; удалять или изменять название программы, наименование фирмы-правообладателя, любые уведомления об авторских правах на любой копии программы и сопроводительных материалах; переводить программу на другие языки программирования; продавать программу или взимать любое вознаграждение за распространение программы или пользование программой.
+
+АО НПФ ЛОГИКА поставляет данную программу "как есть"  ("тель - кель") без какой-либо гарантии, явной или подразумеваемой, включая гарантии пригодности для какой - либо определенной цели, и не несет ответственности за проблемы ее взаимодействия с другими программами или любые другие последствия применения программы. Только сам пользователь отвечает за выбор программы для достижения намеченных результатов и за фактически полученные результаты.
+
+Настоящая лицензия действительна до тех пор, пока она не аннулирована. Пользователь может аннулировать ее в любое время, удалив все копии программы со всех компьютеров. Любое несанкционированное использование означает автоматическое немедленное прекращение действия настоящего соглашения и влечет за собой предусмотренную законом ответственность. Правообладатель имеет право требовать возмещения морального, материального и иного вреда, причиненного действиями пользователя в нарушение данного соглашения. Признание какого-либо положения соглашения недействительным не влечет за собой недействительности иных положений соглашения.
+
+Настоящее лицензионное соглашение не предусматривает предоставление каких-либо прав в отношении товарных знаков, фирменного наименования и других объектов интеллектуальной собственности правообладателя программы.Во всем остальном, что не предусмотрено настоящим соглашением, будут применяться нормы действующего законодательства Российской Федерации.
+
+При возникновении вопросов Вы можете обратиться в АО НПФ ЛОГИКА по адресу: Россия, 190020, Санкт - Петербург, наб.Обводного канала, 150, а / я 215, Российская Федерация. тел.: (812) 252 - 57 - 57; тел./ факс: (812) 252 - 29 - 40, 445 - 27 - 45 
+
+(c) АО НПФ ЛОГИКА, 2008 - 2022 г.
+
+</value>
+  </data>
+</root>
